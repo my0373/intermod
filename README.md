@@ -1,2 +1,11 @@
 # intermod
-Just a bit of fun to see if the concept of intermodal transport can be prototyped in python for distributing software artifacts. 
+A service that allows for the 
+* Open
+* Reliable
+* Performant
+* Extensible
+* Secure
+
+distribution of software artifacts.
+
+
